@@ -4,6 +4,7 @@ int main()
 {
     std::cout<<"xy"<<std::endl;
     asjdoasijdaosd;
-    sajodasldjasldja;
+    sajodasldjasldja;sss;
+    
     return 0;
 }
